@@ -1,0 +1,161 @@
+Province,District,Headquarters,Area,Population (2017),Density,Division
+Balochistan,Awaran,Awaran,"29,510","956,011",4,Kalat
+Balochistan,Barkhan,Barkhan,"3,514","171,556",48.8,Loralai
+Balochistan,Chagai,Dalbandin,"44,748","226,008",5,Rakhshan
+Balochistan,Chaman,Chaman,,,,Quetta
+Balochistan,Dera Bugti,Dera Bugti,"10,160","1,500,603",31,Sibi
+Balochistan,Duki,Duki,,"153,000",,Loralai
+Balochistan,Gwadar,Gwadar,"12,637","4,500,514",21,Makran
+Balochistan,Harnai,Harnai,"4,096","97,017",24,Sibi
+Balochistan,Hub,Hub,"6,716","339,640",51,Kalat
+Balochistan,Jafarabad,Dera Allahyar,"2,445","513,813",210,Nasirabad
+Balochistan,Jhal Magsi,Gandava,"3,615","149,225",41,Nasirabad
+Balochistan,Kachhi,Dhadar,"7,499","237,030",32,Nasirabad
+Balochistan,Kalat,Kalat,"6,622","412,232",62,Kalat
+Balochistan,Kech,Turbat,"22,539","909,116",40,Makran
+Balochistan,Kharan,Kharan,"8,958","156,152",17,Rakhshan
+Balochistan,Khuzdar,Khuzdar,"35,380","802,207",23,Kalat
+Balochistan,Kohlu,Kohlu,"7,610","214,350",28,Sibi
+Balochistan,Lasbela,Uthal,"15,153","574,292",38,Kalat
+Balochistan,Loralai,Loralai,"9,830","397,400",40,Loralai
+Balochistan,Mastung,Mastung,"5,896","266,461",45,Kalat
+Balochistan,Musakhel,Musa Khel Bazar,"5,728","167,017",29,Loralai
+Balochistan,Nasirabad,Dera Murad Jamali,"3,387","490,538",145,Nasirabad
+Balochistan,Nushki,Nushki,"5,797","178,796",31,Rakhshan
+Balochistan,Panjgur,Panjgur,"16,891","316,385",19,Makran
+Balochistan,Pishin,Pishin,"7,819","736,481",94,Quetta
+Balochistan,Quetta,Quetta,"2,653","2,275,699",858,Quetta
+Balochistan,Qila Abdullah,Jungle Pir Alizai,"3,293","757,578",230,Quetta
+Balochistan,Qilla Saifullah,Qilla Saifullah,"6,831","342,814",50,Zhob
+Balochistan,Sherani,Sherani,"2,800","153,116",55,Zhob
+Balochistan,Sibi,Sibi,"7,796","135,572",17,Sibi
+Balochistan,Sohbatpur,Sohbatpur,"1,412","200,538",142,Nasirabad
+Balochistan,Surab,Surab, , , ,Kalat
+Balochistan,Washuk,Washuk,"29,510","176,206",6,Rakhshan
+Balochistan,Zhob,Zhob,"20,297","310,544",15,Zhob
+Balochistan,Ziarat,Ziarat,"1,489","160,422",108,Kalat
+Khyber Pakhtunkhwa,Abbottabad,Abbottabad,"1,967","1,332,912",785,Hazara
+Khyber Pakhtunkhwa,Bajaur,Khar,"1,290","1,093,684",848,Malakand
+Khyber Pakhtunkhwa,Bannu,Bannu,"1,227","1,167,892",952,Bannu
+Khyber Pakhtunkhwa,Battagram,Battagram,"1,301","476,612",366,Hazara
+Khyber Pakhtunkhwa,Buner,Daggar,"1,865","897,319",481,Malakand
+Khyber Pakhtunkhwa,Charsadda,Charsadda,996,"1,616,198","1,623",Peshawar
+Khyber Pakhtunkhwa,Dera Ismail Khan,Dera Ismail Khan,"7,326","1,627,132",222,Dera Ismail Khan
+Khyber Pakhtunkhwa,Hangu,Hangu,"1,097","518,798",473,Kohat
+Khyber Pakhtunkhwa,Haripur,Haripur,"1,725","1,003,031",581,Hazara
+Khyber Pakhtunkhwa,Karak,Karak,"3,372","706,299",209,Kohat
+Khyber Pakhtunkhwa,Khyber,Landi Kotal,"2,576","986,973",383,Peshawar
+Khyber Pakhtunkhwa,Kohat,Kohat,"2,545","993,874",390,Kohat
+Khyber Pakhtunkhwa,Kurram,Parachinar,"3,380","619,553",201,Kohat
+Khyber Pakhtunkhwa,Kolai Palas,Kolai, , , ,Hazara
+Khyber Pakhtunkhwa,Lakki Marwat,Lakki Marwat,"3,164","876,182",277,Bannu
+Khyber Pakhtunkhwa,Lower Dir,Timergara,"1,582","1,435,917",908,Malakand
+Khyber Pakhtunkhwa,Lower Kohistan,Pattan,"7,492","784,711",105,Hazara
+Khyber Pakhtunkhwa,Lower Chitral,Chitral,"7,492","784,711",105,Malakand
+Khyber Pakhtunkhwa,Malakand,Batkhela,952,"720,295",757,Malakand
+Khyber Pakhtunkhwa,Mansehra,Mansehra,"4,579","1,556,460",340,Hazara
+Khyber Pakhtunkhwa,Mardan,Mardan,"1,632","2,373,061","1,454",Mardan
+Khyber Pakhtunkhwa,Mohmand,Ghalanai,"2,296","466,984",203,Peshawar
+Khyber Pakhtunkhwa,North Waziristan,Miranshah,"4,707","543,254",115,Bannu
+Khyber Pakhtunkhwa,Nowshera,Nowshera,"1,748","1,518,540",869,Peshawar
+Khyber Pakhtunkhwa,Orakzai,Kalaya,"1,538","254,356",165,Kohat
+Khyber Pakhtunkhwa,Peshawar,Peshawar,"1,257","4,269,079","3,396",Peshawar
+Khyber Pakhtunkhwa,Shangla,Alpuri,"1,586","757,810",478,Malakand
+Khyber Pakhtunkhwa,South Waziristan,Wana,"6,620","679,185",103,Dera Ismail Khan
+Khyber Pakhtunkhwa,Swabi,Swabi,"1,543","1,624,616","1,053",Mardan
+Khyber Pakhtunkhwa,Swat,Saidu Sharif,"5,337","2,309,570",433,Malakand
+Khyber Pakhtunkhwa,Tank,Tank,"1,679","391,885",233,Dera Ismail Khan
+Khyber Pakhtunkhwa,Torghar,Judba,497,"171,395",345,Hazara
+Khyber Pakhtunkhwa,Upper Dir,Dir,"3,699","946,421",256,Malakand
+Khyber Pakhtunkhwa,Upper Kohistan,Dasu,"7,492","784,711",105,Hazara
+Khyber Pakhtunkhwa,Upper Chitral,Booni, , , ,Malakand
+Sindh,Badin,Badin,"6,726","1,804,516",268,Banbhore
+Sindh,Dadu,Dadu,"7,866","1,550,266",197,Hyderabad
+Sindh,Ghotki,Mirpur Mathelo,"6,083","1,646,318",270,Sukkur
+Sindh,Hyderabad,Hyderabad,"5,519","2,199,463",398,Hyderabad
+Sindh,Jacobabad,Jacobabad,"5,278","1,006,297",191,Larkana
+Sindh,Jamshoro,Jamshoro,"11,250","993,142",88,Hyderabad
+Sindh,Karachi Central,Karachi,69,"2,971,626","43,067",Karachi
+Sindh,Karachi East,Karachi,165,"2,907,467","17,610",Karachi
+Sindh,Karachi South,Karachi,122,"1,791,751","14,686",Karachi
+Sindh,Karachi West,Karachi,929,"3,914,757","4,214",Karachi
+Sindh,Kashmore,Kandhkot,"2,592","1,089,169",420,Larkana
+Sindh,Khairpur,Khairpur,"15,910","2,404,334",151,Sukkur
+Sindh,Korangi,Korangi,95,"2,457,019","25,918",Karachi
+Sindh,Keamari,Moriro Mirbahar (Site), , , ,Karachi
+Sindh,Larkana,Larkana,"1,906","1,524,391",205,Larkana
+Sindh,Malir,Malir,"2,268","2,008,901",886,Karachi
+Sindh,Matiari,Matiari,"1,417","769,349",543,Hyderabad
+Sindh,Mirpur Khas,Mirpur Khas,"2,925","1,505,876",515,Mirpur Khas
+Sindh,Naushahro Feroze,Naushahro Feroze,"2,945","1,612,373",548,Shaheed Benazir Abad
+Sindh,Qambar Shahdadkot,Qambar,"5,599","1,341,042",239,Larkana
+Sindh,Sanghar,Sanghar,"10,720","2,057,057",192,Mirpur Khas
+Sindh,Shaheed Benazirabad,Nawabshah,"4,502","1,612,847",358,Shaheed Benazirabad
+Sindh,Shikarpur,Shikarpur,"2,512","1,231,481",490,Larkana
+Sindh,Sujawal,Sujawal,"8,699","781,967",106,Banbhore
+Sindh,Sukkur,Sukkur,"2,512","1,487,903",592,Sukkur
+Sindh,Tando Allahyar,Tando Allahyar,"5,165","836,887",162,Hyderabad
+Sindh,Tando Muhammad Khan,Tando Muhammad Khan,"2,310","677,228",293,Hyderabad
+Sindh,Tharparkar,Mithi,"19,638","1,649,661",84,Mirpur Khas
+Sindh,Thatta,Thatta,"7,705","979,817",98,Banbhore
+Sindh,Umerkot,Umerkot,"5,608","1,073,146",191,Mirpur Khas
+Punjab,Attock,Attock,"6,858","1,883,556",275,Rawalpindi
+Punjab,Bahawalnagar,Bahawalnagar,"8,878","2,981,919",336,Bahawalpur
+Punjab,Bahawalpur,Bahawalpur,"24,830","3,668,106",148,Bahawalpur
+Punjab,Bhakkar,Bhakkar,"8,153","1,650,518",202,Sargodha
+Punjab,Chakwal,Chakwal,"6,524","1,495,982",229,Rawalpindi
+Punjab,Chiniot,Chiniot,"2,643","1,369,740",518,Faisalabad
+Punjab,Dera Ghazi Khan,Dera Ghazi Khan,"11,922","2,872,201",241,Dera Ghazi Khan
+Punjab,Faisalabad,Faisalabad,"5,856","7,873,910","1,345",Faisalabad
+Punjab,Gujranwala,Gujranwala,"3,622","5,014,196","1,384",Gujranwala
+Punjab,Gujrat,Gujrat,"3,192","2,756,110",863,Gujranwala
+Punjab,Hafizabad,Hafizabad,"2,367","1,156,957",489,Gujranwala
+Punjab,Jhang,Jhang,"8,809","2,743,416",311,Faisalabad
+Punjab,Jhelum,Jhelum,"3,587","1,222,650",341,Rawalpindi
+Punjab,Kasur,Kasur,"4,796","3,454,996",720,Lahore
+Punjab,Khanewal,Khanewal,"4,349","2,921,986",672,Multan
+Punjab,Khushab,Jauharabad,"6,511","1,281,299",197,Sargodha
+Punjab,Lahore,Lahore,"1,772","11,126,285","6,279",Lahore
+Punjab,Layyah,Layyah,"6,291","1,824,230",290,Dera Ghazi Khan
+Punjab,Lodhran,Lodhran,"2,778","1,700,620",612,Multan
+Punjab,Mandi Bahauddin,Mandi Bahauddin,"2,673","1,593,292",596,Gujranwala
+Punjab,Mianwali,Mianwali,"5,840","1,546,094",265,Sargodha
+Punjab,Multan,Multan,"3,720","4,745,109","1,275",Multan
+Punjab,Muzaffargarh,Muzaffargarh,"8,249","4,322,009",524,Dera Ghazi Khan
+Punjab,Narowal,Narowal,"2,337","1,709,757",732,Gujranwala
+Punjab,Nankana Sahib,Nankana Sahib,"2,960","1,356,374",458,Lahore
+Punjab,Okara,Okara,"4,377","3,039,139",694,Sahiwal
+Punjab,Pakpattan,Pakpattan,"2,724","1,823,687",669,Sahiwal
+Punjab,Rahim Yar Khan,Rahim Yar Khan,"11,880","4,814,006",405,Bahawalpur
+Punjab,Rajanpur,Rajanpur,"12,319","1,995,958",162,Dera Ghazi Khan
+Punjab,Rawalpindi,Rawalpindi,"5,286","5,405,633","1,322",Rawalpindi
+Punjab,Sahiwal,Sahiwal,"3,201","2,517,560",786,Sahiwal
+Punjab,Sargodha,Sargodha,"5,854","3,703,588",633,Sargodha
+Punjab,Sheikhupura,Sheikhupura,"3,030","3,460,426","1,142",Lahore
+Punjab,Sialkot,Sialkot,"3,016","3,893,672","1,291",Gujranwala
+Punjab,Toba Tek Singh,Toba Tek Singh,"3,252","2,190,015",673,Faisalabad
+Punjab,Vehari,Vehari,"4,364","2,897,446",664,Multan
+Azad Jammu and Kashmir,Muzaffarabad,Muzaffarabad,"1,642","650,370",394,Muzaffarabad
+Azad Jammu and Kashmir,Hattian Bala,Hattian Bala,854,"230,529",270,Muzaffarabad
+Azad Jammu and Kashmir,Neelum,Athmuqam,"3,621","191,251",53,Muzaffarabad
+Azad Jammu and Kashmir,Mirpur,Mirpur,"1,010","456,200",452,Mirpur
+Azad Jammu and Kashmir,Bhimber,Bhimber,"1,516","420,624",297,Mirpur
+Azad Jammu and Kashmir,Kotli,Kotli,"1,862","774,194",416,Mirpur
+Azad Jammu and Kashmir,Poonch,Rawalakot,855,"500,571",585,Poonch
+Azad Jammu and Kashmir,Bagh,Bagh,770,"371,919",483,Poonch
+Azad Jammu and Kashmir,Haveli,Forward Kahuta,598,"152,124",254,Poonch
+Azad Jammu and Kashmir,Sudhnati,Pallandari,569,"297,584",523,Poonch
+Gilgit Baltistan,Ghanche,Khaplu,"6,400",,,Baltistan
+Gilgit Baltistan,Skardu,Skardu,"15,000",,,Baltistan
+Gilgit Baltistan,Astore,Eidghah,"8,657",,,Diamer
+Gilgit Baltistan,Diamer,Chilas,"10,936",,,Diamer
+Gilgit Baltistan,Ghizer,Gahkuch,"9,635",,,Gilgit
+Gilgit Baltistan,Gilgit,Gilgit,"38,000",,,Gilgit
+Gilgit Baltistan,Hunza,Aliabad,"17,145",,,Gilgit
+Gilgit Baltistan,Kharmang,Tolti,,,,Baltistan
+Gilgit Baltistan,Shigar,Shigar,"8,500",,,Baltistan
+Gilgit Baltistan,Nagar,Nagar,"15,567",,,Gilgit
+Gilgit Baltistan,Gupis–Yasin,Phander,,,,Gilgit
+Gilgit Baltistan,Tangir,Tangir,,,,Diamer
+Gilgit Baltistan,Darel,Darel,,,,Diamer
+Gilgit Baltistan,Roundu,Dambudas,,,,Baltistan
