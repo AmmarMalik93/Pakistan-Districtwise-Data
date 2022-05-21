@@ -1,14 +1,14 @@
 Province,District,Headquarters,Area,Population (2017),Density,Division
 Balochistan,Awaran,Awaran,"29,510","956,011",4,Kalat
 Balochistan,Barkhan,Barkhan,"3,514","171,556",48.8,Loralai
-Balochistan,Chagai,Dalbandin,"44,748","226,008",5,Rakhshan
+Balochistan,Chaghi,Dalbandin,"44,748","226,008",5,Rakhshan
 Balochistan,Chaman,Chaman,,,,Quetta
 Balochistan,Dera Bugti,Dera Bugti,"10,160","1,500,603",31,Sibi
 Balochistan,Duki,Duki,,"153,000",,Loralai
 Balochistan,Gwadar,Gwadar,"12,637","4,500,514",21,Makran
 Balochistan,Harnai,Harnai,"4,096","97,017",24,Sibi
 Balochistan,Hub,Hub,"6,716","339,640",51,Kalat
-Balochistan,Jafarabad,Dera Allahyar,"2,445","513,813",210,Nasirabad
+Balochistan,Jaffarabad,Dera Allahyar,"2,445","513,813",210,Nasirabad
 Balochistan,Jhal Magsi,Gandava,"3,615","149,225",41,Nasirabad
 Balochistan,Kachhi,Dhadar,"7,499","237,030",32,Nasirabad
 Balochistan,Kalat,Kalat,"6,622","412,232",62,Kalat
@@ -25,8 +25,8 @@ Balochistan,Nushki,Nushki,"5,797","178,796",31,Rakhshan
 Balochistan,Panjgur,Panjgur,"16,891","316,385",19,Makran
 Balochistan,Pishin,Pishin,"7,819","736,481",94,Quetta
 Balochistan,Quetta,Quetta,"2,653","2,275,699",858,Quetta
-Balochistan,Qila Abdullah,Jungle Pir Alizai,"3,293","757,578",230,Quetta
-Balochistan,Qilla Saifullah,Qilla Saifullah,"6,831","342,814",50,Zhob
+Balochistan,Killa Abdullah,Jungle Pir Alizai,"3,293","757,578",230,Quetta
+Balochistan,Killa Saifullah,Qilla Saifullah,"6,831","342,814",50,Zhob
 Balochistan,Sherani,Sherani,"2,800","153,116",55,Zhob
 Balochistan,Sibi,Sibi,"7,796","135,572",17,Sibi
 Balochistan,Sohbatpur,Sohbatpur,"1,412","200,538",142,Nasirabad
@@ -35,18 +35,18 @@ Balochistan,Washuk,Washuk,"29,510","176,206",6,Rakhshan
 Balochistan,Zhob,Zhob,"20,297","310,544",15,Zhob
 Balochistan,Ziarat,Ziarat,"1,489","160,422",108,Kalat
 Khyber Pakhtunkhwa,Abbottabad,Abbottabad,"1,967","1,332,912",785,Hazara
-Khyber Pakhtunkhwa,Bajaur,Khar,"1,290","1,093,684",848,Malakand
+Khyber Pakhtunkhwa,Bajaur Agency,Khar,"1,290","1,093,684",848,Malakand
 Khyber Pakhtunkhwa,Bannu,Bannu,"1,227","1,167,892",952,Bannu
-Khyber Pakhtunkhwa,Battagram,Battagram,"1,301","476,612",366,Hazara
+Khyber Pakhtunkhwa,Batagram,Battagram,"1,301","476,612",366,Hazara
 Khyber Pakhtunkhwa,Buner,Daggar,"1,865","897,319",481,Malakand
 Khyber Pakhtunkhwa,Charsadda,Charsadda,996,"1,616,198","1,623",Peshawar
 Khyber Pakhtunkhwa,Dera Ismail Khan,Dera Ismail Khan,"7,326","1,627,132",222,Dera Ismail Khan
 Khyber Pakhtunkhwa,Hangu,Hangu,"1,097","518,798",473,Kohat
 Khyber Pakhtunkhwa,Haripur,Haripur,"1,725","1,003,031",581,Hazara
 Khyber Pakhtunkhwa,Karak,Karak,"3,372","706,299",209,Kohat
-Khyber Pakhtunkhwa,Khyber,Landi Kotal,"2,576","986,973",383,Peshawar
+Khyber Pakhtunkhwa,Khyber Agency,Landi Kotal,"2,576","986,973",383,Peshawar
 Khyber Pakhtunkhwa,Kohat,Kohat,"2,545","993,874",390,Kohat
-Khyber Pakhtunkhwa,Kurram,Parachinar,"3,380","619,553",201,Kohat
+Khyber Pakhtunkhwa,Kurram Agency,Parachinar,"3,380","619,553",201,Kohat
 Khyber Pakhtunkhwa,Kolai Palas,Kolai, , , ,Hazara
 Khyber Pakhtunkhwa,Lakki Marwat,Lakki Marwat,"3,164","876,182",277,Bannu
 Khyber Pakhtunkhwa,Lower Dir,Timergara,"1,582","1,435,917",908,Malakand
@@ -55,17 +55,17 @@ Khyber Pakhtunkhwa,Lower Chitral,Chitral,"7,492","784,711",105,Malakand
 Khyber Pakhtunkhwa,Malakand,Batkhela,952,"720,295",757,Malakand
 Khyber Pakhtunkhwa,Mansehra,Mansehra,"4,579","1,556,460",340,Hazara
 Khyber Pakhtunkhwa,Mardan,Mardan,"1,632","2,373,061","1,454",Mardan
-Khyber Pakhtunkhwa,Mohmand,Ghalanai,"2,296","466,984",203,Peshawar
-Khyber Pakhtunkhwa,North Waziristan,Miranshah,"4,707","543,254",115,Bannu
+Khyber Pakhtunkhwa,Mohmand Agency,Ghalanai,"2,296","466,984",203,Peshawar
+Khyber Pakhtunkhwa,North Waziristan Agency,Miranshah,"4,707","543,254",115,Bannu
 Khyber Pakhtunkhwa,Nowshera,Nowshera,"1,748","1,518,540",869,Peshawar
-Khyber Pakhtunkhwa,Orakzai,Kalaya,"1,538","254,356",165,Kohat
+Khyber Pakhtunkhwa,Orakzai Agency,Kalaya,"1,538","254,356",165,Kohat
 Khyber Pakhtunkhwa,Peshawar,Peshawar,"1,257","4,269,079","3,396",Peshawar
 Khyber Pakhtunkhwa,Shangla,Alpuri,"1,586","757,810",478,Malakand
-Khyber Pakhtunkhwa,South Waziristan,Wana,"6,620","679,185",103,Dera Ismail Khan
+Khyber Pakhtunkhwa,South Waziristan Agency,Wana,"6,620","679,185",103,Dera Ismail Khan
 Khyber Pakhtunkhwa,Swabi,Swabi,"1,543","1,624,616","1,053",Mardan
 Khyber Pakhtunkhwa,Swat,Saidu Sharif,"5,337","2,309,570",433,Malakand
 Khyber Pakhtunkhwa,Tank,Tank,"1,679","391,885",233,Dera Ismail Khan
-Khyber Pakhtunkhwa,Torghar,Judba,497,"171,395",345,Hazara
+Khyber Pakhtunkhwa,Tor Ghar,Judba,497,"171,395",345,Hazara
 Khyber Pakhtunkhwa,Upper Dir,Dir,"3,699","946,421",256,Malakand
 Khyber Pakhtunkhwa,Upper Kohistan,Dasu,"7,492","784,711",105,Hazara
 Khyber Pakhtunkhwa,Upper Chitral,Booni, , , ,Malakand
@@ -86,13 +86,13 @@ Sindh,Keamari,Moriro Mirbahar (Site), , , ,Karachi
 Sindh,Larkana,Larkana,"1,906","1,524,391",205,Larkana
 Sindh,Malir,Malir,"2,268","2,008,901",886,Karachi
 Sindh,Matiari,Matiari,"1,417","769,349",543,Hyderabad
-Sindh,Mirpur Khas,Mirpur Khas,"2,925","1,505,876",515,Mirpur Khas
-Sindh,Naushahro Feroze,Naushahro Feroze,"2,945","1,612,373",548,Shaheed Benazir Abad
-Sindh,Qambar Shahdadkot,Qambar,"5,599","1,341,042",239,Larkana
+Sindh,Mirpurkhas,Mirpur Khas,"2,925","1,505,876",515,Mirpur Khas
+Sindh,Naushehro Feroze,Naushahro Feroze,"2,945","1,612,373",548,Shaheed Benazir Abad
+Sindh,Kambar-Shahdadkot,Qambar,"5,599","1,341,042",239,Larkana
 Sindh,Sanghar,Sanghar,"10,720","2,057,057",192,Mirpur Khas
 Sindh,Shaheed Benazirabad,Nawabshah,"4,502","1,612,847",358,Shaheed Benazirabad
 Sindh,Shikarpur,Shikarpur,"2,512","1,231,481",490,Larkana
-Sindh,Sujawal,Sujawal,"8,699","781,967",106,Banbhore
+Sindh,Sajawal,Sujawal,"8,699","781,967",106,Banbhore
 Sindh,Sukkur,Sukkur,"2,512","1,487,903",592,Sukkur
 Sindh,Tando Allahyar,Tando Allahyar,"5,165","836,887",162,Hyderabad
 Sindh,Tando Muhammad Khan,Tando Muhammad Khan,"2,310","677,228",293,Hyderabad
@@ -136,7 +136,7 @@ Punjab,Sialkot,Sialkot,"3,016","3,893,672","1,291",Gujranwala
 Punjab,Toba Tek Singh,Toba Tek Singh,"3,252","2,190,015",673,Faisalabad
 Punjab,Vehari,Vehari,"4,364","2,897,446",664,Multan
 Azad Jammu and Kashmir,Muzaffarabad,Muzaffarabad,"1,642","650,370",394,Muzaffarabad
-Azad Jammu and Kashmir,Hattian Bala,Hattian Bala,854,"230,529",270,Muzaffarabad
+Azad Jammu and Kashmir,Hattian,Hattian Bala,854,"230,529",270,Muzaffarabad
 Azad Jammu and Kashmir,Neelum,Athmuqam,"3,621","191,251",53,Muzaffarabad
 Azad Jammu and Kashmir,Mirpur,Mirpur,"1,010","456,200",452,Mirpur
 Azad Jammu and Kashmir,Bhimber,Bhimber,"1,516","420,624",297,Mirpur
@@ -144,11 +144,11 @@ Azad Jammu and Kashmir,Kotli,Kotli,"1,862","774,194",416,Mirpur
 Azad Jammu and Kashmir,Poonch,Rawalakot,855,"500,571",585,Poonch
 Azad Jammu and Kashmir,Bagh,Bagh,770,"371,919",483,Poonch
 Azad Jammu and Kashmir,Haveli,Forward Kahuta,598,"152,124",254,Poonch
-Azad Jammu and Kashmir,Sudhnati,Pallandari,569,"297,584",523,Poonch
-Gilgit Baltistan,Ghanche,Khaplu,"6,400",,,Baltistan
+Azad Jammu and Kashmir,Sudhnutti,Pallandari,569,"297,584",523,Poonch
+Gilgit Baltistan,Ghanchi,Khaplu,"6,400",,,Baltistan
 Gilgit Baltistan,Skardu,Skardu,"15,000",,,Baltistan
-Gilgit Baltistan,Astore,Eidghah,"8,657",,,Diamer
-Gilgit Baltistan,Diamer,Chilas,"10,936",,,Diamer
+Gilgit Baltistan,Astor,Eidghah,"8,657",,,Diamer
+Gilgit Baltistan,Diamir,Chilas,"10,936",,,Diamer
 Gilgit Baltistan,Ghizer,Gahkuch,"9,635",,,Gilgit
 Gilgit Baltistan,Gilgit,Gilgit,"38,000",,,Gilgit
 Gilgit Baltistan,Hunza,Aliabad,"17,145",,,Gilgit
